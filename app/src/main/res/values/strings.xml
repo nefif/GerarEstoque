@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GerarEstoque</string>
+    <string name="fragment_adicionar_cliente">Adicionar Cliente</string>
+    <string name="fragment_perfil_contato">Perfil e Contato</string>
+    <string name="fragment_endereco">Endereço</string>
+    <string name="fragment_adicionar_produto">Adicionar Produto</string>
+    <string name="fragment_cadastro">Cadastro</string>
+    <string name="fragmento_adicionar_cliente">Adicionar Cliente</string>
+    <string name="fragmento_listar_clientes">Listar Clientes</string>
+    <string name="fragmento_adicionar_produto">Adicionar Produto</string>
+    <string name="fragmento_listar_produtos">Listar Produtos</string>
+    <string name="fragmento_listar_clientes_cards">Lista de Clientes</string>
+    <string name="nav_header_subtitle">Cliente Generico</string>
+    <string name="nav_header_title">Cliente</string>
+</resources>
